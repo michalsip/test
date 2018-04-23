@@ -1,1 +1,2 @@
-Plik testowy numer 2
+Plik testowy numer 
+dodany tekst2
